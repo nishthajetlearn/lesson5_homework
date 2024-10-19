@@ -1,0 +1,15 @@
+Explanation of the Code
+Imports: The program imports the necessary libraries, numpy for numerical operations and matplotlib.pyplot for plotting.
+Functions:
+plot_linear(), plot_quadratic(), and plot_cubic() take coefficients as inputs and generate the corresponding 
+𝑦
+y values based on the specified equation type.
+Main Function:
+Prompts the user to select the type of equation.
+Collects the necessary coefficients based on the user's choice.
+Calls the appropriate plotting function and generates the plot.
+Plot Display: The program sets titles, labels, and gridlines for better visualization, and restricts the x-axis range from 0 to 50.
+Running the Program
+The user will run the script, make a selection, and input the required coefficients.
+The corresponding graph will be displayed based on the chosen equation.
+This exercise will help students understand how to work with functions, user input, and data visualization in Python!
